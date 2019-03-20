@@ -1,0 +1,9 @@
+seoul	02
+usa	010
+tokyo	070
+france	293827
+sanho	12932867
+abcdajsd	192938102
+jongmae	95092867
+lemon	01028672867
+qqq	000
