@@ -33,11 +33,11 @@ int main(void)
                 break;
                 
             case 2:             // 삭제 기능!
+                del();
                 break;
                 
-                
-                
             case 3:             // 검색 기능!
+                search();
                 break;
                 
             case 4:             // 전체 출력기능!

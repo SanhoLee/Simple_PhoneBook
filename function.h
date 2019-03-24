@@ -15,10 +15,10 @@ void clrInBff(void);     //입력버퍼를 없애주는 함수
 
 
 //switch문에 의해 동작되는 각 기능의 함수를 정의
-void insert(void);
-void prtA(void);
-
-
+int insert(void);
+int prtA(void);
+void search(void);
+void del(void);
 
 void exit_prog(void);
 
